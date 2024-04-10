@@ -26,7 +26,7 @@ You can try out the live demo of the application [here]( https://panchammmm.gith
 
 ## Preview
 
-![Preview]( keeper-app-linkedin.mp4)
+![Preview]( keeper-app-linkedin.gif)
 
 ## Technologies Used
 
