@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <NoteAltIcon />
-        Keeper
+        Note Keeper
       </h1>
     </header>
   );
