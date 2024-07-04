@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Keeper-WebApp-usingReact/static/js/main.fb80ef84.js",
+    "main.js": "/Keeper-WebApp-usingReact/static/js/main.74e11d9e.js",
     "index.html": "/Keeper-WebApp-usingReact/index.html",
-    "main.fb80ef84.js.map": "/Keeper-WebApp-usingReact/static/js/main.fb80ef84.js.map"
+    "main.74e11d9e.js.map": "/Keeper-WebApp-usingReact/static/js/main.74e11d9e.js.map"
   },
   "entrypoints": [
-    "static/js/main.fb80ef84.js"
+    "static/js/main.74e11d9e.js"
   ]
 }
