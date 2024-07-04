@@ -1,6 +1,6 @@
-# Keeper Web Application
+# Note Keeper Web Application
 
-Welcome to the Keeper Web Application! This is a simple yet powerful tool for managing your tasks efficiently. With this application, you can easily add, track, and complete your to-do items, helping you stay organized and productive.
+Welcome to the Note Keeper Web Application! This is a simple yet powerful tool for managing your tasks efficiently. With this application, you can easily add, track, and complete your to-do items, helping you stay organized and productive.
 
 ## Table of Contents
 
