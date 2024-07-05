@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Keeper-WebApp-usingReact/static/js/main.74e11d9e.js",
-    "index.html": "/Keeper-WebApp-usingReact/index.html",
-    "main.74e11d9e.js.map": "/Keeper-WebApp-usingReact/static/js/main.74e11d9e.js.map"
+    "main.js": "/Note-Keeper-WebApp-usingReact/static/js/main.74e11d9e.js",
+    "index.html": "/Note-Keeper-WebApp-usingReact/index.html",
+    "main.74e11d9e.js.map": "/Note-Keeper-WebApp-usingReact/static/js/main.74e11d9e.js.map"
   },
   "entrypoints": [
     "static/js/main.74e11d9e.js"
