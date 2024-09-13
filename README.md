@@ -22,11 +22,11 @@ Welcome to the Note Keeper Web Application! This is a simple yet powerful tool f
 
 ## Demo
 
-You can try out the live demo of the application [here]( https://panchammmm.github.io/Keeper-WebApp-usingReact/).
+You can try out the live demo of the application [here](https://noteeskeeper.netlify.app/).
 
 ## Preview
 
-![Preview]( keeper-app-linkedin.gif)
+![Preview](app-pic.png)
 
 ## Technologies Used
 
